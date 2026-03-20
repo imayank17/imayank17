@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kumar_mayank17" target="blank"><img src="https://img.shields.io/twitter/follow/kumar_mayank17?logo=twitter&style=for-the-badge" alt="kumar_mayank17" /></a> </p>
 
-- 🔭 I’m currently working on **different -different Data Analysis**
+- 🔭 I’m currently leaning **Generative AI and Agentic AI**
 
-- 🌱 I’m currently learning **Data Science and Algorithms**
+- 🌱 I have 6+ projects on **AI/ML**
 
-- 💬 Ask me about **Python, SQL and Machine Learning**
+- 💬 Ask me about **Python, SQL and AI/ML**
 
 - 📫 How to reach me **imayank1724@gmail.com**
 
-- ⚡ Fun fact **if you find any , please contact me**
+- ⚡ Fun fact **I love PHONK Music and Edits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
