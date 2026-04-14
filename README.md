@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **imayank1724@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:**Agentic AI
+- 🌱 **I’m currently learning:** Agentic AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** imayank1724@gmail.com
 - 😄 **Pronouns:** He/Him
