@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Mayank Kumar
-**A passionate AI Engineer from India**
+**A passionate AI Engineer**
 
 Email Me 👉 ✉️ **imayank1724@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
